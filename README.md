@@ -1,6 +1,6 @@
 # Win8StartButton
 
-A tiny executable you can pin to the Windows 8 Taskbar that makes up for the lack of a Start *button* on Windows 8. It just displays the Start screen when you click it - it isn't a Start menu replacement.
+A tiny executable you can pin to the Windows 8 Taskbar that makes up for the lack of a Start *button* on Windows 8. It just **displays the Start screen** when you click it - it isn't a Start menu replacement.
 
 ![Screen shot](https://github.com/duncansmart/Win8StartButton/blob/master/Screenshot.png?raw=true)
 
